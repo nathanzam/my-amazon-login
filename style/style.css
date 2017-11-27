@@ -1,0 +1,57 @@
+body {
+  width: 90%;
+}
+
+.logo {
+  text-align: center;
+}
+
+h1 {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+input {
+  width: 100%;
+  margin: 20px;
+}
+
+input, button {
+  border-radius: 3px;
+}
+
+.email, .password, .change {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.pass {
+  float: right;
+}
+
+button {
+  width: 100%;
+  padding: 5px;
+  font-size: 12px;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.sign {
+  background: linear-gradient(#DABB6A,#806615);
+}
+
+.new {
+  background-color: lightgrey;
+}
+
+fieldset {
+  background-color: #F6F6F6;
+  border-color: #D6D6D6;
+}
+
+.page {
+  padding: 20px;
+  }
+
+.change {
+  padding-top: 20px;
+  text-align: center;
+}
